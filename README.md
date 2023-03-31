@@ -1,6 +1,6 @@
 ![Header](./head.png)
 <h1 align="center">Hi 👋, I'm Sidhant Kaushal</h1>
-<h3 align="center">Front-end Developer || Full Stack Learner || Learner from India.</h3>
+<h3 align="center">Front-end Developer || Full Stack Learner || India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhantkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="sidhantkaushal" /> </p>
 
